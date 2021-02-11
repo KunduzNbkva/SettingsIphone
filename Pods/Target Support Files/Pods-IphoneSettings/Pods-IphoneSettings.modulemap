@@ -1,0 +1,6 @@
+framework module Pods_IphoneSettings {
+  umbrella header "Pods-IphoneSettings-umbrella.h"
+
+  export *
+  module * { export * }
+}

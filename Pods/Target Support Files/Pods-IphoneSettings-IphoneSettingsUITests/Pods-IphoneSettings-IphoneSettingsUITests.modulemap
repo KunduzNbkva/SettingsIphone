@@ -1,0 +1,6 @@
+framework module Pods_IphoneSettings_IphoneSettingsUITests {
+  umbrella header "Pods-IphoneSettings-IphoneSettingsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

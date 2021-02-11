@@ -6,3 +6,14 @@
 //
 
 import Foundation
+import UIKit
+
+extension UITableViewCell {
+    static var cellID: String {
+        return className
+    }
+    
+    static var nibName: String {
+        return className
+    }
+}

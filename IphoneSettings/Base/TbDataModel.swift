@@ -6,3 +6,14 @@
 //
 
 import Foundation
+class TbDataModel {
+    var type: String!
+    var data: String!
+    var descriprion: String!
+    
+    init(_ type: String,_ data: String,_ description: String){
+        self.type = type
+        self.data = data
+        self.descriprion = description
+    }
+}
